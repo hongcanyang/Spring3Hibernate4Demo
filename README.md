@@ -1,0 +1,2 @@
+# Spring3Hibernate4Demo
+Spring3Hibernate的项目测试
